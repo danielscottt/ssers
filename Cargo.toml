@@ -1,0 +1,9 @@
+[package]
+name = "ssers"
+version = "0.1.0"
+authors = ["dpitt"]
+
+[dependencies]
+hyper = "0.6.10"
+rustc-serialize = "0.3"
+log = "*"
